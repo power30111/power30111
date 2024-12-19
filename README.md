@@ -1,3 +1,5 @@
+# 소통하며 성장하고자하는 개발자 임호준 입니다!
+
 ## tech stack<br>
 ![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![js](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
